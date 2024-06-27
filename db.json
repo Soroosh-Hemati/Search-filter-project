@@ -1,0 +1,95 @@
+{
+    "Items":[
+        {
+            "id":1,
+            "title":"shirt product",
+            "class":"shirt",
+            "price":25.99,
+            "imgSrc":"./assets/images/alex-haigh-fEt6Wd4t4j0-unsplash.jpg"
+        },
+        {
+            "id":2,
+            "title":"watch product",
+            "class":"watch",
+            "price":45.99,
+            "imgSrc":"./assets/images/fabian-heimann-4R_WEmhx8og-unsplash.jpg"
+        },
+        {
+            "id":3,
+            "title":"accessory product",
+            "class":"accessory",
+            "price":4.99,
+            "imgSrc":"./assets/images/franki-chamaki-2LTLJg9WJAI-unsplash.jpg"
+        },
+        {
+            "id":4,
+            "title":"jeans product",
+            "class":"jeans",
+            "price":30.99,
+            "imgSrc":"./assets/images/ivan-bogdanov-17qC7l19hMI-unsplash.jpg"
+        },
+        {
+            "id":5,
+            "title":"jeans product",
+            "class":"jeans",
+            "price":42.99,
+            "imgSrc":"./assets/images/jason-leung-EtOMMg1nSR8-unsplash.jpg"
+        },
+        {
+            "id":6,
+            "title":"watch product",
+            "class":"watch",
+            "price":79.99,
+            "imgSrc":"./assets/images/john-torcasio-TJrkkhdB39E-unsplash.jpg"
+        },
+        {
+            "id":7,
+            "title":"accessory product",
+            "class":"accessory",
+            "price":101.99,
+            "imgSrc":"./assets/images/juan-burgos-3_XeNGVbTQA-unsplash.jpg"
+        },
+        {
+            "id":8,
+            "title":"jeans product",
+            "class":"jeans",
+            "price":45.99,
+            "imgSrc":"./assets/images/klaudia-piaskowska-Zy6oNZRdcjc-unsplash.jpg"
+        },
+        {
+            "id":9,
+            "title":"accessory product",
+            "class":"accessory",
+            "price":85.99,
+            "imgSrc":"./assets/images/lum3n-lbEL705stOw-unsplash.jpg"
+        },
+        {
+            "id":10,
+            "title":"watch product",
+            "class":"watch",
+            "price":99.99,
+            "imgSrc":"./assets/images/pat-taylor-12V36G17IbQ-unsplash.jpg"
+        },
+        {
+            "id":11,
+            "title":"shirt product",
+            "class":"shirt",
+            "price":29.99,
+            "imgSrc":"./assets/images/ryan-hoffman-6Nub980bI3I-unsplash.jpg"
+        },
+        {
+            "id":12,
+            "title":"accessory product",
+            "class":"accessory",
+            "price":99.99,
+            "imgSrc":"./assets/images/sabrianna-NhrcL_C0sFA-unsplash.jpg"
+        },
+        {
+            "id":13,
+            "title":"shirt product",
+            "class":"shirt",
+            "price":29.99,
+            "imgSrc":"./assets/images/santhosh-kumar-RqYTuWkTdEs-unsplash.jpg"
+        }
+    ]
+}
